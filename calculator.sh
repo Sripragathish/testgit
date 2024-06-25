@@ -14,3 +14,5 @@ z = x+y
 a = x * y
 
 b = y/x
+
+c = y-x
